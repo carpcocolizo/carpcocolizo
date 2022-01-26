@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carpcocolizo
-- 👀 I’m interested in learning code for web development for now.
-- 🌱 I’m currently learning Ruby (and JS, HTML and CSS).
+- 👀 I’m interested in learning code for web development.
+- 🌱 I’m currently learning Ruby (JS, HTML and CSS too).
 - 💞️ I’m looking to collaborate on anything I can help.
 - 📫 How to reach me: germanvalente@yahoo.com is my personal email.
 
