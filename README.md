@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @carpcocolizo
+- 👋 Hi, I’m @carpcocolizo // German Valente
 - 👀 I’m interested in learning code for web development.
 - 🌱 I’m currently learning JavaScript (Ruby, HTML and CSS too).
 - 💞️ I’m looking to collaborate on anything I can help.
